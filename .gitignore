@@ -1,0 +1,5 @@
+# Estado local do Obsidian (muda a cada abertura, não precisa versionar)
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+.DS_Store
